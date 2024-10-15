@@ -6,9 +6,6 @@ This is a python bot that I created for myself to automate the parsing of links 
 
 ```!paste```: Pastes links
 
-
-There are much more commands that the bot has, and can be found through the help command list when added to your server!
-
 ## Permissions
 
 Recommended to give the bot administrator as I have not tested the bot using specific moderation permissions. 
